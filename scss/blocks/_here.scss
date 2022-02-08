@@ -1,0 +1,34 @@
+.here{
+  background-color: #CF404D;
+}
+
+.here__inner{
+  
+  padding: 41px 0 44px 96px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.here__title{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  line-height: 36px;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+.here__link{
+  padding: 11px 22px 15px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: right;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  border-radius: 4px;
+}
